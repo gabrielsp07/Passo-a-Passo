@@ -1,0 +1,18 @@
+{
+    "title": "Passo a Passo",
+    "description": "Interface WEB que identifica a pisada e mostra visualmente o resultado",
+    "preview": "screenshot/screenshot.png",
+    "repository": "https://github.com/gabrielsp07/Passo-a-Passo",
+    "course": "cstrc",
+    "session": "2018.1",
+    "subject": "dw",
+    "campus": "João Pessoa",
+    "topics": [
+      "php",
+      "js",
+      "mysql"
+    ],
+    "owners": [
+      20141610411
+    ]
+  }
