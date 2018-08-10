@@ -15,4 +15,4 @@ Esse projeto consiste no acompanhamento e diagnóstico da sua pisada, através d
 
 ## Screenshot
 
-![Tela de Login](screenshot/screenshot.jpg)
+![Tela de Login](screenshot.jpg)
